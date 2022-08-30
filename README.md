@@ -158,8 +158,7 @@ Resonancia en paralelo
 
  ![image](https://user-images.githubusercontent.com/105687213/187329891-91c420b6-dbe2-4f50-bed1-580382d42a1b.png)
 
- ![image](https://user-images.githubusercontent.com/105687213/187329915-1be4c60a-9d96-4d9e-8a97-ca955946d037.png)
-
+ 
 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
 
 26.Encuentre la impedancia total para cada circuito de la figura 17-65
@@ -266,7 +265,6 @@ I_R2=(R_T/R_2 ) I_2=(50Ω/100Ω)(0.55A)=0.27 A
  
  ![image](https://user-images.githubusercontent.com/105687213/187330305-e36ef63c-10d4-48cc-bd2a-5d63e1edb0f2.png)
  
- ![image](https://user-images.githubusercontent.com/105687213/187330315-90104f95-ec2f-4c0c-9e0b-df0c69b7c866.png)
 
 
 -----
@@ -421,7 +419,7 @@ VsalMax=(R/(R+RW))Vent=(2.2kΩ/(2.2kΩ+8Ω))50V=49.81V
 
 VsalMin=(R/(R+Zr))Vent=(2.2kΩ/(2.2kΩ+8Ω))50V=49.81V
 
-4. Vídeo
+4.Vídeo
 
 
 
