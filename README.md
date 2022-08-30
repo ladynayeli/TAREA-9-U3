@@ -265,9 +265,64 @@ I_R2=(R_T/R_2 ) I_2=(50Ω/100Ω)(0.55A)=0.27 A
  
  ![image](https://user-images.githubusercontent.com/105687213/187330305-e36ef63c-10d4-48cc-bd2a-5d63e1edb0f2.png)
  
+ Ancho de banda de circuitos resonantes 
+ 
+ 38.Diseñe una red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 µH con resistencia de devanado de 5 Ω.
+ 
+ ![image](https://user-images.githubusercontent.com/105687213/187344799-421696af-677e-4957-99e2-c8ae66a02c88.png)
 
+40.Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
 
------
+AB=f2-f1=2800Hz-2400Hz=400Hz
+
+fr=(f1+f2)/2=(2400Hz+2800Hz)/2=2600Hz
+
+42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+
+w=1/√(L×C)=1/√8kHz
+
+w=0.35kHz
+
+ 
+Filtros pasabajas
+
+4. ¿Cuál es fc para cada filtro mostrado en la figura 18-38? Determine el voltaje de salida a fc en cada caso cuando Vent 5 V. 
+ 
+a)	 
+![image](https://user-images.githubusercontent.com/105687213/187345135-645070ed-fccb-465c-afe9-46fa957849b5.png)
+
+![image](https://user-images.githubusercontent.com/105687213/187345087-df80a0e4-7737-40b0-862e-1996f23c1e47.png)
+
+b)	 
+![image](https://user-images.githubusercontent.com/105687213/187345151-deb07552-2584-4230-b919-20dd8dc45174.png)
+
+![image](https://user-images.githubusercontent.com/105687213/187345101-9bedbab5-d9d2-4e33-a9ac-c65ef491c0eb.png)
+
+c)	 
+![image](https://user-images.githubusercontent.com/105687213/187345177-99c88b7d-496c-4dbd-9e6b-153ee10cf57c.png)
+
+![image](https://user-images.githubusercontent.com/105687213/187345113-c5e04e5e-b6d8-4635-b78c-f6cebb272a3e.png)
+
+d)	 
+![image](https://user-images.githubusercontent.com/105687213/187345197-d0362185-8a1d-4930-b3e4-d854a90bbb83.png)
+
+![image](https://user-images.githubusercontent.com/105687213/187345124-d766cdab-cf4a-47e6-b0cc-d7e5a19b94c3.png)
+
+6. Determine la frecuencia crítica en cada una de las posiciones del interruptor en la red de filtros conmutados de la figura 18-40.
+
+ ![image](https://user-images.githubusercontent.com/105687213/187345223-7ca6d2f3-b13e-471d-91a4-99861f0cdad3.png)
+
+ ![image](https://user-images.githubusercontent.com/105687213/187345232-925efbe1-d8a7-43f6-b0f3-81b2bcc5bf26.png)
+
+8. En cada uno de los casos siguientes, exprese la relación de voltaje en dB: 
+ 
+ ![image](https://user-images.githubusercontent.com/105687213/187345248-37137875-893c-446a-b1f9-966f0d02d01c.png)
+
+10. Para cada filtro RC pasabajas, determine el voltaje de salida en dB con respecto a una entrada de 0 dB en las siguientes frecuencias (fc 1 kHz): 
+
+![image](https://user-images.githubusercontent.com/105687213/187345265-1353abc8-f4af-45cd-95c2-3b2126bcae82.png)
+ 
+ Filtroa pasaaltas
 
 12.La frecuencia crítica de un filtro pasaaltas es de 50 Hz. Determine a cuáles de las siguientes frecuencias se les permite pasar y cuáles son rechazadas:
 
@@ -340,6 +395,8 @@ fc=1/2πRC=1/(2π(1.86kΩ)(0.015µf))=0.17 kHz
 Posición 4:
 
 fc=1/2πRC=1/(2π(1kΩ)(0.015µf))=90µHz
+
+Filtro pasabanda
 
 18.Suponiendo que la resistencia de devanado de las bobinas mostradas en la figura 18-43 es de 10Ω, determine el ancho de banda para cada filtro.
  
@@ -421,7 +478,7 @@ VsalMin=(R/(R+Zr))Vent=(2.2kΩ/(2.2kΩ+8Ω))50V=49.81V
 
 4.Vídeo
 
-
+https://youtu.be/drF2BUOznv4
 
 5.Conclusiones
 
